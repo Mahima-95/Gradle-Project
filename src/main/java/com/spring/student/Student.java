@@ -4,5 +4,5 @@ import com.spring.pojo.Studentpojo;
 
 public interface Student {
 
-	public void addStudent(Studentpojo studentpojo);
+	public String addStudent(Studentpojo studentpojo);
 }
